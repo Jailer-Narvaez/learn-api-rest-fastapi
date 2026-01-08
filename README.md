@@ -5,7 +5,7 @@ Repositorio de repaso de **FastAPI** enfocado en los fundamentos de las **APIs R
 🚀 Puesta en marcha del repositorio
 
 1. Clonar el repositorio:
-  "git clone https://github.com/Jailer-Narvaez/learn-api-rest-fastapi.git"
+  "git clone https://github.com/Jailer-Narvaez/learn-api-rest-fastapi.git", moverse a la   carpeta de clonación del proyecto.
 2. Activar el entorno virtual:
    En Linux / macOS: "source venv/bin/activate"
    En Windows: "venv\Scripts\activate"
